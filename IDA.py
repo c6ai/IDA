@@ -1,6 +1,7 @@
 ## https://docs.google.com/presentation/d/1V9VdS3YtBElMsbKKkGTcoRM5Lw-nuWjbDw4NflOZa4M/edit?usp=sharing
 ## https://github.com/c6ai/IDA/blob/main/IDA.py
 ##TODO: Perform GSCSP (Gen Sim CSP (Conjugacy Search Problem)) Cryptanalysis of AE (Algebraic Eraser) Security (Gunnells 2011)
+##TODO: Extend Identification of Important Features at Different IoT layers for Dynamic Attack Detection (Komninos et al., 2023)
 
 # Import some libraries
 import numpy as np
